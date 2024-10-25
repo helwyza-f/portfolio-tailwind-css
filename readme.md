@@ -2,6 +2,11 @@
 
 Ini adalah proyek website portofolio yang dirancang untuk menampilkan karya, pengalaman, dan keterampilan secara profesional dan interaktif. Proyek ini dibangun menggunakan **Tailwind CSS** untuk desain yang modern dan responsif.
 
+Website ini adalah hasil dari pembelajaran di channel youtube Web Programming Unpas pada playlist **Belajar Tailwind
+Css** oleh Pak **Sandhika Galih**, terimakasih kami ucapkan kepada beliau dan semoga ilmu yang didapat menjadi bermanfaat untuk kedepannya.
+
+Jangan Lupa Titik Koma; 👌
+
 ## Fitur
 
 - **Desain Responsif**: Menampilkan halaman yang dapat diakses di berbagai perangkat (desktop, tablet, dan mobile).
